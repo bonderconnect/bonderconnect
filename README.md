@@ -26,7 +26,7 @@ Construction projects come with unique challenges, from tight deadlines and comp
 
 ## Getting Started
 
-To get started with Bonder, follow the instructions in our documentation, which can be found in the [Bonder Docs](/docs) directory. You can also explore our [Wiki](/wiki) for more information on how to use the platform effectively.
+To get started with Bonder, follow the instructions in our documentation, which can be found in the [Bonder Docs](/docs) directory. You can also explore our [Landing Page](https://bonderconnect.com/) for more information on how to use the platform effectively.
 
 ## Contributing
 
