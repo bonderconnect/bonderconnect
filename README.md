@@ -34,7 +34,7 @@ We welcome contributions from the open-source community to improve and expand Bo
 
 ## Contact Us
 
-If you have any questions, suggestions, or feedback, please reach out to us at [contact@bonderconstruction.com](mailto:bonderconnect@gmail.com). We value your input and look forward to helping you solve construction challenges effectively.
+If you have any questions, suggestions, or feedback, please reach out to us at [bonderconnect@gmail.com](mailto:bonderconnect@gmail.com). We value your input and look forward to helping you solve construction challenges effectively.
 
 Thank you for choosing Bonder to simplify your construction projects. Let's build a brighter future together!
 
