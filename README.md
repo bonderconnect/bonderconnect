@@ -28,6 +28,11 @@ Construction projects come with unique challenges, from tight deadlines and comp
 
 To get started with Bonder, follow the instructions in our documentation, which can be found in the [Bonder Docs](/docs) directory. You can also explore our [Landing Page](https://bonderconnect.com/) for more information on how to use the platform effectively.
 
+# Tech Stack Overview for Bonder Connect
+
+https://github.com/bonderconnect/bonderconnect/assets/149993101/3c20cbe7-9076-41b7-a38c-bfa3b8fdb6bd
+
+
 ## Contributing
 
 We welcome contributions from the open-source community to improve and expand Bonder. Feel free to submit issues, feature requests, or pull requests in the [Issues](/issues) section. We believe in the power of collaboration and are eager to make Bonder even better with your help.
